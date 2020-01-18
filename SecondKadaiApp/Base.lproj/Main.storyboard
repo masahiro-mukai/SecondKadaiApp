@@ -80,9 +80,7 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="rP6-ab-J3Y" firstAttribute="top" secondItem="ti6-xC-OJI" secondAttribute="top" constant="50" id="B7Q-Zh-SP1"/>
                             <constraint firstItem="rP6-ab-J3Y" firstAttribute="top" secondItem="ti6-xC-OJI" secondAttribute="top" constant="100" id="GGc-pQ-bkQ"/>
-                            <constraint firstItem="tw4-rG-0BP" firstAttribute="top" secondItem="rP6-ab-J3Y" secondAttribute="bottom" constant="50" id="TLg-cw-1ul"/>
                             <constraint firstItem="tw4-rG-0BP" firstAttribute="centerX" secondItem="kEO-Eb-ji7" secondAttribute="centerX" id="Z0M-3d-ZqN"/>
                             <constraint firstItem="tw4-rG-0BP" firstAttribute="top" secondItem="rP6-ab-J3Y" secondAttribute="bottom" constant="100" id="f7F-id-fuo"/>
                             <constraint firstItem="rP6-ab-J3Y" firstAttribute="centerX" secondItem="kEO-Eb-ji7" secondAttribute="centerX" id="gnz-YQ-dhq"/>
